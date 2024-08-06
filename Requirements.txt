@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+pymongo==4.4.0
+dnspython
+uwsgi
+elasticsearch
